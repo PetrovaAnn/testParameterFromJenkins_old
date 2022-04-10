@@ -22,7 +22,7 @@
             </suiteXmlFiles>
             <properties>
                 <property>
-                    <name>testnames</name>
+                    <name>classes</name>
                     <value>${testng.testnames}</value>
                 </property>
             </properties>
