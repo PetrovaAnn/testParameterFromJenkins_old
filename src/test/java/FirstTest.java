@@ -5,11 +5,6 @@ import org.testng.annotations.Test;
 public class FirstTest {
 
     @Test
-    public void test1(){
-        System.out.println("test 1.1");
-    }
-
-    @Test
     public void test2(){
         System.out.println("test 1.2");
     }
