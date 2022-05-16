@@ -1,0 +1,6 @@
+$ cat .gitignore
+*.iml
+.idea
+.allure
+target
+allure-report
