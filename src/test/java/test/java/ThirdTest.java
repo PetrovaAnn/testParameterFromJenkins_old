@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class ThirdTest {
 
     @Test
-    public void test1(){
+    public void test1(){;
         System.out.println("test 3.1");
     }
 
